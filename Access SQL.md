@@ -8,7 +8,7 @@ DML (Data Manipulation Language)
      
   DELETE
 ```
-   )
+
  
 DDL (Data Definition Language)
 ```SQL

@@ -1,5 +1,5 @@
-DML (Data
-` 
+DML (Data Manipulation Language)
+```SQL
   SELECT
      
   INSERT
@@ -7,10 +7,12 @@ DML (Data
   UPDATE
      
   DELETE
-`
+```
    )
  
-DDL (Data
+DDL (Data Definition Language)
+```SQL
 CREATE
 TRUNCATE
 DROP
+```
